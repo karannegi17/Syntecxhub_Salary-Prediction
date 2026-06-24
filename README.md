@@ -35,6 +35,6 @@ Experience = 5
 
 Test Score = 75
 
-Edication = MCA
+Education = MCA
 
 Predicted Salary = 72150.75
